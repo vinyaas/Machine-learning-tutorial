@@ -1,0 +1,29 @@
+# Creating the main directories and subdirectories
+
+mkdir config
+mkdir -p data\raw, data\processed, data\interim, data\external
+mkdir notebooks
+mkdir scripts
+mkdir models
+mkdir -p results\plots, results\tables
+mkdir -p reports\figures, reports\text
+mkdir -p src\data, src\features, src\models, src\visualization
+mkdir logs
+mkdir tests
+
+New-Item -Path config\config.yaml -ItemType File
+New-Item -Path notebooks\01_data_exploration.ipynb -ItemType File
+New-Item -Path notebooks\02_modeling.ipynb -ItemType File
+New-Item -Path scripts\data_processing.py -ItemType File
+New-Item -Path scripts\train_model.py -ItemType File
+New-Item -Path models\.gitkeep -ItemType File
+New-Item -Path reports\text\report.md -ItemType File
+New-Item -Path src\data\make_dataset.py -ItemType File
+New-Item -Path src\features\build_features.py -ItemType File
+New-Item -Path src\models\predict_model.py -ItemType File
+New-Item -Path src\visualization\visualize.py -ItemType File
+New-Item -Path logs\execution.log -ItemType File
+New-Item -Path tests\test_train_model.py -ItemType File
+New-Item -Path README.md -ItemType File
+New-Item -Path .gitignore -ItemType File
+New-Item -Path requirements.txt -ItemType File
