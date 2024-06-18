@@ -27,3 +27,9 @@ New-Item -Path tests\test_train_model.py -ItemType File
 New-Item -Path README.md -ItemType File
 New-Item -Path .gitignore -ItemType File
 New-Item -Path requirements.txt -ItemType File
+
+Full stack data science project tutorial links :
+
+>> Processing the data ( makedataset.py ) - https://docs.datalumina.io/s1eFpcdtbvRTMb
+>> Data Visualization ( visualize.py ) - https://docs.datalumina.io/ccQSzikoeMmqZE
+>> Remove Outliers ( remove_outliers.py ) - https://docs.datalumina.io/jD1BSJCAPYKSwh
