@@ -33,3 +33,5 @@ Full stack data science project tutorial links :
 >> Processing the data ( makedataset.py ) - https://docs.datalumina.io/s1eFpcdtbvRTMb
 >> Data Visualization ( visualize.py ) - https://docs.datalumina.io/ccQSzikoeMmqZE
 >> Remove Outliers ( remove_outliers.py ) - https://docs.datalumina.io/jD1BSJCAPYKSwh
+>> Feature Engineering ( build_feature.py ) - https://docs.datalumina.io/tjGyJjXxfpChiL & https://docs.datalumina.io/tjGyJjXxfpChiL
+>> Model Training ( train_model.py ) - https://docs.datalumina.io/GQBbHfi4hJA0FV
