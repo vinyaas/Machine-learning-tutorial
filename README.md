@@ -4,9 +4,11 @@ This repository contains tutorials and working examples of various machine learn
 
 ## Folders
 
+- Boosting 
 - Clustering
 - Decision Tree
 - Feature Engineering
+  
 
 ## Clustering
 
