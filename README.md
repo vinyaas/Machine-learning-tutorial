@@ -18,7 +18,7 @@ This folder includes tutorials and examples on different clustering techniques:
 - **DBSCAN**: Density-Based Spatial Clustering of Applications with Noise, useful for finding clusters of varying shapes and sizes.
 - **RFM**: Recency, Frequency, Monetary analysis, often used in marketing to segment customers.
 
-## Decision Tree
+## Classification
 
 This folder covers decision tree-based algorithms:
 
