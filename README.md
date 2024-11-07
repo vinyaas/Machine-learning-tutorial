@@ -8,6 +8,7 @@ This repository contains tutorials and working examples of various machine learn
 - Clustering
 - Decision Tree
 - Feature Engineering
+- Machine learning Life Cycle
   
 
 ## Clustering
